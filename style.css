@@ -1,0 +1,32 @@
+body{
+    background-color: #00FFFF;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.origami{
+    border-radius: 50px;
+    background-color: cyan;
+    width: 310px;
+    font-family: Berlin Sans FB;
+}
+h1 {
+    color:darkblue;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+body{
+    background-color: yellow;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
